@@ -1,0 +1,26 @@
+.three{
+    color: red;
+}
+body{
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+}
+.flexible-container{
+    display: flex;
+}
+.two{
+    width: 50%;
+    padding: 5%;
+}
+.two img{
+    width: 100%;
+}
+.four{
+    text-decoration: none;
+    background-image: -o-linear-gradient(orange, tomato); 
+    background-color: blueviolet;
+    padding: 10px 40px;
+    border-radius: 20px;
+    font-size: 40px;
+    font-weight: 400;
+}
